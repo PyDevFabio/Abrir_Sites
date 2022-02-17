@@ -1,0 +1,2 @@
+# Abrir_Sites
+ Este é um simples projeto em Python , onde utilizei o módulo que já vem embutido com Python ,chamado WebBrowser, este programa é capaz de abrir 1 Janela, 2 Janelas ou até mesmo 3 Janelas, contendo links diferentes, definido pelo o usuário no menu de opções, além disso tem a opção final para encerrar o programa, e caso o usuário digite algo que não está no menu, o programa continua em Loop até ter uma resposta válida.
